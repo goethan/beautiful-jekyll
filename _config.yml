@@ -39,7 +39,8 @@ navbar-links:
   About Me: "About me"
   Some projects:
     - Udacity Titanic Project: 'https://cdn.rawgit.com/goethan/myworld/1e3b5b6d/projects/Titanic_final_Sheng_BI_IPND_1st_modification_Name.html'
-    - Udacity Mono: ''
+    - Udacity Data Wrangling Mongodb sql:
+      - website: 'https://github.com/goethan/myworld/tree/master/projects'
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
