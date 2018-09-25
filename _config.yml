@@ -38,7 +38,7 @@ description: follow your interest and PUSH YOURSELF
 navbar-links:
   About Me: "About me"
   Some projects:
-    - 'https://github.com/goethan/myworld/blob/master/projects/Titanic_final_Sheng_BI_IPND_1st_modification_Name.html'
+    - Udacity Titanic Project: 'https://github.com/goethan/myworld/blob/master/projects/Titanic_final_Sheng_BI_IPND_1st_modification_Name.html'
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
