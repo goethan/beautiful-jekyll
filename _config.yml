@@ -37,11 +37,14 @@ description: follow your interest and PUSH YOURSELF
 
 navbar-links:
   About Me: "About me"
+  Some projects:
+    - 'https://github.com/goethan/myworld/blob/master/projects/Titanic_final_Sheng_BI_IPND_1st_modification_Name.html'
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://deanattali.com"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -114,7 +117,8 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+## url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://goethan.github.io/" 
 
 # --- Web Statistics Section --- #
 
